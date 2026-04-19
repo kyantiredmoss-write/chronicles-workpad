@@ -1,0 +1,49 @@
+CHRONICLES OF RULOBA — FULL EXPORT
+Includes: Draft + Ideas & Concepts + Meta-Data
+Exported: 19 April 2026
+============================================================
+
+████ CHAPTER 1 — test1 ████
+POV: Essa
+Location: cave
+Tags: test 1, test2
+Status: drafting
+
+── IDEAS & CONCEPTS ──
+
+testing idea concept
+
+── META-DATA ──
+
+Beat / Stage:
+testing beat
+
+============================================================
+
+████ CHAPTER 2 — test3 ████
+Status: drafting
+
+── DRAFT ──
+
+🔄✨ just test
+
+── IDEAS & CONCEPTS ──
+
+testing idea concept 2
+
+── META-DATA ──
+
+Plot — What Must Happen:
+testing plot point 1
+
+============================================================
+
+████ CHAPTER 3 — test 2 ████
+Status: drafting
+
+── DRAFT ──
+
+hello 2
+
+============================================================
+
